@@ -5,7 +5,7 @@
                         "job": "Create Package",
                         "env": "local"
                         "processName": "test-cicd-1",
-                        "componentId": "ComponentId will replace processName attribute",
+                        "componentId": "",
                         "packageVersion": "1.2",
                         "componentType": "process",
                         "componentVersion": "",

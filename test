@@ -1,17 +1,2 @@
-{
-"pipelines" :
-        [
-                {
-                        "job": "Create Package",
-                        "env": "local"
-                        "processName": "test-cicd-1",
-                        "componentId": "",
-                        "packageVersion": "1.2",
-                        "componentType": "process",
-                        "componentVersion": "",
-                        "notes": "Mandatory: Create Package Template",
-                        "extractComponentXmlFolder": "",
-                        "tag": "cicd-testcase-1"
-                }
-]
-}
+now=$(date)
+echo "$now"
